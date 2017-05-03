@@ -1,7 +1,8 @@
 <?php
 /**
- * შეცდომების ჩვენება სრულად, როცა ტესტავ მხოლოდ მაშინ.
+ * შეცდომების ჩვენება სრულად, როცა ტესტავ მხოლოდ მაშინ
  */
+
 error_reporting(E_ALL);
 ini_set('display_errors', 9999);
 date_default_timezone_set("Asia/Tbilisi");
