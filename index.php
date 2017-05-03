@@ -2,6 +2,7 @@
 /**
  * შეცდომების ჩვენება სრულად, როცა ტესტავ მხოლოდ მაშინ
  */
+text text text
 
 error_reporting(E_ALL);
 ini_set('display_errors', 9999);
